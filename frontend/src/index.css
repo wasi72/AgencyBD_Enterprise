@@ -75,11 +75,16 @@
   --color-slate-950: rgba(12, 12, 14, 0.72);
 
   /* accent: teal */
+  --color-indigo-100: #ccfbf1;
+  --color-indigo-200: #99f6e4;
   --color-indigo-300: #99f6e4;
   --color-indigo-400: #5eead4;
   --color-indigo-500: #2dd4bf;
   --color-indigo-600: #2dd4bf;
   --color-indigo-700: #14b8a6;
+  --color-indigo-800: #115e59;
+  --color-indigo-900: #134e4a;
+  --color-indigo-950: #042f2e;
 
   /* status colours keep their meaning; purple becomes violet so charts stay distinguishable from teal */
   --color-purple-300: #c4b5fd;
@@ -144,11 +149,16 @@ html.light {
   --color-slate-950: rgba(255, 255, 255, 0.7);
 
   /* accent: deep teal reads as text on white (5.5:1) and as a fill under white ink */
+  --color-indigo-100: #0f766e;
+  --color-indigo-200: #0b5f58;
   --color-indigo-300: #0b5f58;
   --color-indigo-400: #0f766e;
   --color-indigo-500: #0f766e;
   --color-indigo-600: #0f766e;
   --color-indigo-700: #0d655e;
+  --color-indigo-800: rgba(15, 118, 110, 0.15);
+  --color-indigo-900: rgba(15, 118, 110, 0.08);
+  --color-indigo-950: rgba(15, 118, 110, 0.04);
 
   --color-purple-300: #5b21b6;
   --color-purple-400: #5b21b6;
